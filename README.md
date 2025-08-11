@@ -116,13 +116,4 @@ We welcome contributions to preserve and promote regional languages:
 - Cultural content is community-moderated
 - API endpoints include proper validation and sanitization
 
-## 📞 Support
-
-For technical support or questions about cultural contributions:
-- Email: support@swecha.org
-- GitHub Issues: [Create an issue](https://github.com/your-repo/issues)
-- Community Discord: [Join our community](https://discord.gg/swecha)
-
----
-
 Built with ❤️ for cultural preservation and linguistic diversity.
