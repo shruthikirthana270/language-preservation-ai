@@ -13,7 +13,7 @@ A comprehensive AI-powered platform for preserving and promoting regional langua
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Node.js 18+ 
+- Node.js 18+
 - npm or yarn
 - Access to Render PostgreSQL database
 
