@@ -11,7 +11,6 @@ A comprehensive AI-powered platform for preserving and promoting regional langua
 - **Real-time Database**: Powered by Render PostgreSQL for scalable data storage
 
 ## 🚀 Quick Start
-
 ### Prerequisites
 - Node.js 18+
 - npm or yarn
