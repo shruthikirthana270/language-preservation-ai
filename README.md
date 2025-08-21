@@ -1,5 +1,4 @@
 # Swecha AI - Cultural Language Preservation Platform
-
 A comprehensive AI-powered platform for preserving and promoting regional languages and cultural heritage, built with Next.js and connected to Render PostgreSQL.
 
 ## 🌟 Features
